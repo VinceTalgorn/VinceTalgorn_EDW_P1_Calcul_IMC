@@ -1,6 +1,7 @@
 # Calcul IMC
 
--   Projet 1 de la série de 20 projets en JavaScript de l'école du web
+-   Projet 1 de la série de 20 projets en JavaScript de l'école du web.
+-   Accès au [calculateur d'IMC](https://vincetalgorn.github.io/VinceTalgorn_EDW_P1_Calcul_IMC/).
 
 ![screenshot du site](./images/Accueil_Descktop.png)
 
