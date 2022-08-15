@@ -1,6 +1,6 @@
 # Calcul IMC
 
--   Projet 1 de la série de 20 projet en JavaScript de l'école du web
+-   Projet 1 de la série de 20 projets en JavaScript de l'école du web
 
 ![screenshot du site](./images/Accueil_Descktop.png)
 
